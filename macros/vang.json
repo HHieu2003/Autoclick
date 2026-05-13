@@ -1,0 +1,124 @@
+[
+  {
+    "type": "mouse_click",
+    "x": 969,
+    "y": 162,
+    "button": "Button.left",
+    "pressed": false,
+    "time": 0.1661078929901123
+  },
+  {
+    "type": "mouse_click",
+    "x": 716,
+    "y": 15,
+    "button": "Button.left",
+    "pressed": true,
+    "time": 1.0454094409942627
+  },
+  {
+    "type": "mouse_click",
+    "x": 716,
+    "y": 15,
+    "button": "Button.left",
+    "pressed": false,
+    "time": 1.1807103157043457
+  },
+  {
+    "type": "mouse_click",
+    "x": 413,
+    "y": 366,
+    "button": "Button.left",
+    "pressed": true,
+    "time": 2.2610976696014404
+  },
+  {
+    "type": "mouse_click",
+    "x": 413,
+    "y": 366,
+    "button": "Button.left",
+    "pressed": false,
+    "time": 2.3923487663269043
+  },
+  {
+    "type": "mouse_click",
+    "x": 520,
+    "y": 436,
+    "button": "Button.left",
+    "pressed": true,
+    "time": 3.3758649826049805
+  },
+  {
+    "type": "mouse_click",
+    "x": 520,
+    "y": 436,
+    "button": "Button.left",
+    "pressed": false,
+    "time": 3.5155746936798096
+  },
+  {
+    "type": "mouse_click",
+    "x": 652,
+    "y": 468,
+    "button": "Button.left",
+    "pressed": true,
+    "time": 5.293663501739502
+  },
+  {
+    "type": "mouse_move",
+    "x": 654,
+    "y": 468,
+    "time": 5.417957544326782
+  },
+  {
+    "type": "mouse_move",
+    "x": 668,
+    "y": 470,
+    "time": 5.474447965621948
+  },
+  {
+    "type": "mouse_move",
+    "x": 713,
+    "y": 476,
+    "time": 5.526466131210327
+  },
+  {
+    "type": "mouse_click",
+    "x": 718,
+    "y": 476,
+    "button": "Button.left",
+    "pressed": false,
+    "time": 5.600080966949463
+  },
+  {
+    "type": "mouse_click",
+    "x": 745,
+    "y": 536,
+    "button": "Button.left",
+    "pressed": true,
+    "time": 6.319966793060303
+  },
+  {
+    "type": "mouse_click",
+    "x": 745,
+    "y": 536,
+    "button": "Button.left",
+    "pressed": false,
+    "time": 6.448679685592651
+  },
+  {
+    "type": "mouse_click",
+    "x": 745,
+    "y": 536,
+    "button": "Button.left",
+    "pressed": true,
+    "time": 7.008568286895752
+  },
+  {
+    "type": "mouse_click",
+    "x": 745,
+    "y": 536,
+    "button": "Button.left",
+    "pressed": false,
+    "time": 7.149108648300171
+  }
+]
